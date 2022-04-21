@@ -14,7 +14,7 @@
     </parent>
 
     <artifactId>tapis-meta-shared</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
 
     <name>Tapis MetaV2 VDJ Shared</name>
     <description>TAPIS metaV2 vdj sharedV3 Java code</description>
