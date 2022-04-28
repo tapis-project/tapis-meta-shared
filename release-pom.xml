@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>edu.utexas.tacc.tapis</groupId>
   <artifactId>tapis-meta-shared</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <packaging>pom</packaging>
   <name>Tapis MetaV2 VDJ Shared</name>
   <description>TAPIS metaV2 vdj sharedV3 Java code</description>
@@ -215,7 +215,7 @@
     <apache-sshd.version>2.7.0</apache-sshd.version>
     <mockito-core.version>3.0.0</mockito-core.version>
     <javax.websocket-api.version>1.1</javax.websocket-api.version>
-    <build.timestamp>2022-04-21T15:23:11Z</build.timestamp>
+    <build.timestamp>2022-04-28T17:04:44Z</build.timestamp>
     <statefulj.version>3.0</statefulj.version>
     <java-source.version>1.15</java-source.version>
     <reactor-rabbitmq.version>1.5.2</reactor-rabbitmq.version>
@@ -360,7 +360,7 @@
       </testResource>
     </testResources>
     <directory>target</directory>
-    <finalName>tapis-meta-shared-1.0.0</finalName>
+    <finalName>tapis-meta-shared-1.0.1</finalName>
     <plugins>
       <plugin>
         <groupId>com.amashchenko.maven.plugin</groupId>
