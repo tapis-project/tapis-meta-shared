@@ -14,7 +14,7 @@
     </parent>
 
     <artifactId>tapis-meta-shared</artifactId>
-    <version>1.0.2</version>
+    <version>1.0.3-SNAPSHOT</version>
 
     <name>Tapis MetaV2 VDJ Shared</name>
     <description>TAPIS metaV2 vdj sharedV3 Java code</description>
@@ -23,7 +23,7 @@
     <scm>
         <connection>scm:git:git@github.com:tapis-project/tapis-meta-shared.git</connection>
         <url>https://github.com/tapis-project/tapis-meta-shared</url>
-        <tag>tapis-meta-shared-1.0.2</tag>
+        <tag>tapis-meta-shared-1.0.0</tag>
     </scm>
 
     <properties>
